@@ -1,4 +1,4 @@
-<h1> Product-Registration-in-Python-MySQL -Parte 1/3</h1>
+<h1> Product-Registration-in-Python-MySQL -Part 1/3</h1>
 
 This is a file organizer, where the user will be able to select documents from a folder through the file extension.
 The user will be able to see in the chart the number of documents separated by their extension, in addition to the total number of folders.
